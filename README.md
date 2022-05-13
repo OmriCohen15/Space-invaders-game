@@ -2,7 +2,7 @@
 
 ### A shooting game, based on object-oriented programming, written in Python.
 
-### Keys: for moving press 'w', 'a', 's', 'd', for shoot press 'space'.
+### Keys: for move press 'w', 'a', 's', 'd', for shoot press 'space'.
 
 _________________________________________________________________________________________________________________________________________________________________________
 
